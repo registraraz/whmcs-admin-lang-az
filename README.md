@@ -1,4 +1,4 @@
-# WHMCS Admin Panel Azerbaijani Language Pack
+# WHMCS Admin Panel - Azerbaijani Language Pack
 
 Bu repo **WHMCS Admin Paneli** üçün Azərbaycan dili (`az`) tərcümə faylını təqdim edir.  
 Faylı WHMCS qurulumunuzda bu qovluğa yerləşdirin:
