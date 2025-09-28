@@ -3,7 +3,7 @@
 Bu repo **WHMCS Admin Paneli** üçün Azərbaycan dili (`az`) tərcümə faylını təqdim edir.  
 Faylı WHMCS qurulumunuzda bu qovluğa yerləşdirin:
 
-/whmcs/lang/overrides/az.php
+/sizinadminpanel/lang/overrides/az.php
 
 
 ## Status
