@@ -1,5 +1,4 @@
 <?php
-<?php
 /**
  * WHMCS Admin Language File
  * Azerbaijani (az_AZ)
